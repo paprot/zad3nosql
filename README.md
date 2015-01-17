@@ -1,5 +1,5 @@
 # zad3nosql
-<h1> Zadanie 1 </h2>
+<h1> Zadanie 3 </h2>
 
 Wszystkie pliki dutyczące znalezienia anagramów są to pliki *_zad1.
 
@@ -20,7 +20,7 @@ Wszystkie pliki dutyczące znalezienia most frequent word są to pliki *mfw.
 1.mfw.js - skryt uzyty w znalezieniu mfw
 
 
-2. purifier_mfw.py - skrypt pythona przerabiajacy na format csv zeby miec strukture kolekcji jak w podzadaniu 1
+2.purifier_mfw.py - skrypt pythona przerabiajacy na format csv zeby miec strukture kolekcji jak w podzadaniu 1
 
 
-3.  wikiuploadtomongodb_mfw.txt - wycinek pliku, ktory jest wynikiem dzialania skryptu w pythonie na plik txt z WikiParsera C++
+3.wikiuploadtomongodb_mfw.txt - wycinek pliku, ktory jest wynikiem dzialania skryptu w pythonie na plik txt z WikiParsera C++
