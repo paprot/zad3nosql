@@ -7,16 +7,18 @@ Wszystkie pliki dutyczące znalezienia anagramów są to pliki *_zad1.
 
 2.anagram_zad1.js - skrypt map reduce użyty w zadaniu
 
-3. anagramzid_zad1.csv - znalezione anagramy w formacie csv z id
+3.anagramzid_zad1.csv - znalezione anagramy w formacie csv z id
 
-4. anauploadtomongodb_zad1.txt - plik, ktory zostal zaimportowany do bazy, de facto jest to csv, ktory tworzy
+4.anauploadtomongodb_zad1.txt - plik, ktory zostal zaimportowany do bazy, de facto jest to csv, ktory tworzy
 
 
 ( _id : id, klucz: slowo )
 
 Wszystkie pliki dutyczące znalezienia most frequent word są to pliki *mfw.
 
-1.mfw.js - skryt uzyty w znalezieniu
+
+1.mfw.js - skryt uzyty w znalezieniu mfw
+
 
 2. purifier_mfw.py - skrypt pythona przerabiajacy na format csv zeby miec strukture kolekcji jak w podzadaniu 1
 
